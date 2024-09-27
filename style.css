@@ -1,0 +1,22 @@
+div{
+    width: 400px;
+    height: 400px;
+    background-image: url(https://cdn.hswstatic.com/gif/outer-space.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-style: inset;
+    border-width: 10px;
+    border-radius: 50px;
+    border-color: rgb(107, 108, 114);
+    box-shadow: inset 10px 10px 5px;
+    padding: 10px;
+    margin: 50px;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 75px;
+    text-align: center;
+    opacity: 0.7;
+}
